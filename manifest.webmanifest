@@ -1,7 +1,7 @@
 {
-  "name": "GVG Almoxarifado Digital",
-  "short_name": "GVG Almoxarifado",
-  "description": "Atalho para o Catálogo GVG Esquadrias",
+  "name": "GVG&ARTEFAL ALMOXARIFADO",
+  "short_name": "GVG&ARTEFAL",
+  "description": "Atalho para o almoxarifado GVG & ARTEFAL",
   "lang": "pt-BR",
   "id": "./",
   "start_url": "./index.html",
